@@ -1,0 +1,3 @@
+Ch.1 - I knew that bits are 0s and 1s. I did not know the extensive terms for classification of different forms of data.
+Ch.2 - I knew that the semicolon is used to end lines of code. I did not know that you could create "while" functions that work during other lines.
+Ch.3 - I knew that functions could hold more code. I did not know that. I had never heard about the concept of an arrow function before.
