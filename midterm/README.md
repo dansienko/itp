@@ -2,7 +2,7 @@ hello and welcome to my midterm documentation readme.
 First things first, I will check out the assignment. It seems that before I code, I will need 3 samples. I pulled some drum set noises from my hard drive. 
 I will now attempt to use AI to finish this whole assignment in seconds. I am going to do what I did for the last assignment, and copy-paste the project prompt into ChatGPT and see how we do.
 Here's what Dr.GPT had to say
-![Screenshot 2025 03 11 At 3.24.16 PM](../../../Desktop/game%20scoring/Screenshot%202025-03-11%20at%203.24.16 PM.png)![Screenshot 2025 03 11 At 3.24.47 PM](../../../Desktop/game%20scoring/Screenshot%202025-03-11%20at%203.24.47 PM.png)![Screenshot 2025 03 11 At 3.25.21 PM](../../../Desktop/game%20scoring/Screenshot%202025-03-11%20at%203.25.21 PM.png)![Screenshot 2025 03 11 At 3.25.39 PM](../../../Desktop/game%20scoring/Screenshot%202025-03-11%20at%203.25.39 PM.png)
+https://drive.google.com/drive/folders/14LWvS6zTNlxrutOKRZ28F3SGyWFDBsn7?usp=sharing
 Side note, just realized all of my screenshots are routed to my intro to game scoring folder from semester 2. Cool.
 Now I will copy and paste the code ChatGPT wrote from me and see what we get. Before I run the code, I will insert the correct pathing to my sound files.
 Eureka, it works! All I will do now is edit my snare and hi hat files to play one repetition of the sound.
