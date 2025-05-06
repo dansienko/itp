@@ -1,0 +1,6 @@
+final project documentation file
+- first step I learned how to use renpy by scrolling the website and playing through the tutorial built into the software. now it is time to start my game.
+- I compiled all the images I would need for the game into the images directory so that would be all set. 
+- Next I went through the actual book and took notes on which parts I wanted to highlight, the progression of the scenes, and where I wanted choices to be made.
+- Next I opened the actual code and entered my characters. Using my notes, I continued the code. I came into immense difficulty creating choice menus, because of seeimingly endless syntax errors. However once I got my indentation correct, everything was working.
+I had my friends play my game and after a few revisions like typo fixes and character appearances, I think it is ready to go.
