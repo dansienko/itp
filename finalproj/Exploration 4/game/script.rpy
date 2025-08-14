@@ -121,7 +121,7 @@ label bad_ending:
 
     n "And you may have sent him to his death."
     call screen bad_ending_screen
-    # Bad ending label or screen could go here
+
     return
 
 label continue_exploring:
@@ -377,12 +377,11 @@ label shoot_monster:
 screen bad_ending_screen:
     tag menu
 
-    # Black background
+   
     window:
         style "gm_root"
         background "#000000"
 
-    # Centered "BAD ENDING" text
     frame:
         align (0.5, 0.4)
         xsize 800
@@ -390,8 +389,6 @@ screen bad_ending_screen:
         background None
 
         text "BAD ENDING" size 60 color "#ff3333" xalign 0.5
-
-    # Subtext
     frame:
         align (0.5, 0.55)
         xsize 1000
@@ -399,7 +396,6 @@ screen bad_ending_screen:
 
         text "You turned back. But the House was far from done." size 30 color "#aaaaaa" xalign 0.5
 
-    # Return options
     frame:
         align (0.5, 0.75)
         has vbox
